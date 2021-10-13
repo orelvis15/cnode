@@ -1,6 +1,6 @@
 {
-"name": "ORE POOL",
-"description": "Pool de test de ore",
-"ticker": "ORE",
-"homepage": "https://github.com/orelvis15"
+    "name": "ORE POOL",
+    "description": "A single operator pool to support and grow to cardano blockchain :)",
+    "ticker": "ORE",
+    "homepage": "https://orelvis15.github.io/orepool/"
 }
