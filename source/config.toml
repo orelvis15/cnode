@@ -1,0 +1,17 @@
+baseURL = 'https://orelvis15.github.io/pool'
+languageCode = 'es-es'
+title = 'Ore pool web'
+theme = 'theme'
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Acerca de mí"
+    url = "/about"
+    weight = 2
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
