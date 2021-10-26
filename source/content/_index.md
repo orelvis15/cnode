@@ -22,4 +22,5 @@ draft: false
 ### Canales de comunicación
 
 1. [Telegram](https://t.me/orepool)
+1. [LinkedIn](https://www.linkedin.com/in/orelvis/)
 2. [Email](mailto:orelvis15@gmail.com)

@@ -2,6 +2,7 @@ baseURL = 'https://orelvis15.github.io/pool'
 languageCode = 'es-es'
 title = 'Ore pool web'
 theme = 'theme'
+logo='/logo'
 
 [menu]
   [[menu.main]]
@@ -15,3 +16,10 @@ theme = 'theme'
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
+
+[params]
+  logo = "logo.png"
+
+[params.footer]
+  text = "by Orelvis Lago"
+  url = "https://github.com/orelvis15"
