@@ -1,0 +1,7 @@
+{
+    "name": "ORE POOL TESTNET",
+    "description": "A single operator pool to support and grow to cardano blockchain :)",
+    "ticker": "TORE",
+    "homepage": "https://orelvis15.github.io/pool/",
+    "extended":"https://raw.githubusercontent.com/orelvis15/pool/main/metaextra.json"
+}
