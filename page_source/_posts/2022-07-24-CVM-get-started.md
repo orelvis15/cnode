@@ -1,5 +1,5 @@
 ---
-title: Compiled Cardano-Node using CVM
+title: Compiled cardano-node using CVM
 author: Orelvis Lago
 date: 2022-07-18 20:55:00 +0800
 categories: [cvm]
